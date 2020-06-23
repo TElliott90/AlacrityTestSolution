@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlacrityTest", "AlacrityTest\AlacrityTest.csproj", "{63FA58C8-F03A-45E6-A7B0-19EB44E717B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlacrityTest_UnitTests", "AlacrityTest_UnitTests\AlacrityTest_UnitTests.csproj", "{FE2FCA7B-897C-49DC-BE63-5087687A145C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63FA58C8-F03A-45E6-A7B0-19EB44E717B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FA58C8-F03A-45E6-A7B0-19EB44E717B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FA58C8-F03A-45E6-A7B0-19EB44E717B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FA58C8-F03A-45E6-A7B0-19EB44E717B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE2FCA7B-897C-49DC-BE63-5087687A145C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2FCA7B-897C-49DC-BE63-5087687A145C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2FCA7B-897C-49DC-BE63-5087687A145C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2FCA7B-897C-49DC-BE63-5087687A145C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

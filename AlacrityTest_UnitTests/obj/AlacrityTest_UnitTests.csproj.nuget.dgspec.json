@@ -1,0 +1,133 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/thomaselliott/Projects/AlacrityTest/AlacrityTest_UnitTests/AlacrityTest_UnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/thomaselliott/Projects/AlacrityTest/AlacrityTest/AlacrityTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thomaselliott/Projects/AlacrityTest/AlacrityTest/AlacrityTest.csproj",
+        "projectName": "AlacrityTest",
+        "projectPath": "/Users/thomaselliott/Projects/AlacrityTest/AlacrityTest/AlacrityTest.csproj",
+        "packagesPath": "/Users/thomaselliott/.nuget/packages/",
+        "outputPath": "/Users/thomaselliott/Projects/AlacrityTest/AlacrityTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thomaselliott/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thomaselliott/Projects/AlacrityTest/AlacrityTest_UnitTests/AlacrityTest_UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thomaselliott/Projects/AlacrityTest/AlacrityTest_UnitTests/AlacrityTest_UnitTests.csproj",
+        "projectName": "AlacrityTest_UnitTests",
+        "projectPath": "/Users/thomaselliott/Projects/AlacrityTest/AlacrityTest_UnitTests/AlacrityTest_UnitTests.csproj",
+        "packagesPath": "/Users/thomaselliott/.nuget/packages/",
+        "outputPath": "/Users/thomaselliott/Projects/AlacrityTest/AlacrityTest_UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thomaselliott/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/thomaselliott/Projects/AlacrityTest/AlacrityTest/AlacrityTest.csproj": {
+                "projectPath": "/Users/thomaselliott/Projects/AlacrityTest/AlacrityTest/AlacrityTest.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
